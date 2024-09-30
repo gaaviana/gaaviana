@@ -19,5 +19,9 @@ I am a dedicated programming student, always looking to learn and grow in the de
 ## 🌐 Social Media
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaaviana)](https://github.com/anuraghazra/github-readme-stats)
+
+https://github.com/anuraghazra/github-readme-stats
 
