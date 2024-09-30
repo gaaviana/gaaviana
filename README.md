@@ -1,8 +1,8 @@
-# 👋 Hello world, I'm Gabriel, be very welcome 
+# 👋 Hello world, I'm Gabriel, be very welcome.
 🎓 Programming Student | 💻 Passionate about Technology | 🌍 New Ideas Explorer | 🇧🇷
 
 ## About me
-I am a dedicated programming student, always looking to learn and grow in the development area. Currently, I am focused on web development
+I am a dedicated programming student, always looking to learn and grow in the development area. Currently, I am focused on web development.
 
 ## 💻 Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
