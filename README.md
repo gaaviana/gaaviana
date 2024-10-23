@@ -14,7 +14,7 @@ I am a dedicated programming student, always looking to learn and grow in the de
 
 ## 🚀 Projects
 - **[Simplicity](https://github.com/gaaviana/simplicity)**: Small website for learning HTML, CSS and JS languages.
-- **[Tossan F.C](https://github.com/gaaviana/tossan)**: Website for a small football team to promote sporting events, festivals, classes, etc.
+- **[Tossan F.C](https://github.com/gaaviana/projeto)**: Website for a small football team to promote sporting events, festivals, classes, etc.
 
 ## 🌐 Social Media
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
@@ -22,6 +22,4 @@ I am a dedicated programming student, always looking to learn and grow in the de
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaaviana)](https://github.com/anuraghazra/github-readme-stats)
-
-https://github.com/anuraghazra/github-readme-stats
 
