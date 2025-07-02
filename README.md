@@ -40,10 +40,18 @@ I am a dedicated programming student, always looking to learn and grow in the de
 - **[Simplicity](https://github.com/gaaviana/simplicity)**: Small website for learning HTML, CSS and JS languages.
 - **[Tossan F.C](https://github.com/gaaviana/projeto)**: Website for a small football team to promote sporting events, festivals, classes, etc.
 
-## 🌐 Social Media
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+## 🌐 Redes Sociais
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaaviana)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <a href="https://www.instagram.com/seuusuario" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/seuusuario" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
 
