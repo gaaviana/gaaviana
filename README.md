@@ -52,7 +52,7 @@ Sistema web criado para conectar pessoas a projetos e eventos sociais, permitind
 
 ## 📫 Onde me encontrar
 
-* LinkedIn: (https://www.linkedin.com/in/gabriel-viana-paulino-281198326/)
+* LinkedIn: (https://www.linkedin.com/in/gabriel-viana-281198326/)
 * Portfólio: (https://gabrielvianap.vercel.app/)
 * E-mail: (gaa.vianaa@gmail.com)
 
