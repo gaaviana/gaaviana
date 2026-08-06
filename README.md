@@ -1,6 +1,6 @@
-# Gabriel Viana 👋
+# Gabriel Viana 
 
-Desenvolvedor focado em desenvolvimento web e criação de aplicações que unem interfaces intuitivas, lógica de negócio e banco de dados.
+Engenheiro de Software
 
 Gosto de transformar ideias em projetos reais, explorando diferentes tecnologias e buscando constantemente aprimorar minhas habilidades em arquitetura de software, desenvolvimento full-stack e boas práticas de programação.
 
